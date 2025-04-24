@@ -9,7 +9,7 @@ of generating reports and information access. The company management has finally
 through the important step of having new software system to manage all company departments, 
 service employees, business processes, maintenance, customer relationships, and so fourth. 
 
-## General Background 
+### General Background 
 The current system operated at Services-Inc is mostly manual, with some Excel sheets and 
 Google sheets that are operated by the management, sales, HR, and maintenance. All other 
 business process and workflows are operated using manual documents. For instance, when a 
@@ -28,22 +28,22 @@ manage these services in terms of creating efficient schedules that can better u
 employees and their cars. Further, the only way our customers can contact us is through 
 telephones, and this is very cumbersome. 
 
-## Reception Unit 
+### Reception Unit 
 The receptionist is responsible for maintaining customer records, recording service demands; they 
 record their data using Excel and hard copy documents. They also follow up with maintenance 
 department.  
 
-## HR Department 
+### HR Department 
 The human resources department is responsible for maintaining and managing all company’s 
 employees information. It is also responsible of vacation management, training courses, and 
 payroll.  
 
-## Management 
+### Management 
 Management employees will be monitoring various reports about the sales, customers, 
 employees, revenue, complaints, and so on. Through the new software system, the management 
 should be able to oversee the overall status of the company. 
 
-## Maintenance  Department 
+### Maintenance  Department 
 This department is responsible for providing maintenance services as in-house, or as at 
 customers’ premise in terms of all hardware related services. They also have a storage area 
 (Inventory) for storing all different hardware computer parts. They also have several cars to 
