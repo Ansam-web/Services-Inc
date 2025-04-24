@@ -48,3 +48,5 @@ This department is responsible for providing maintenance services as in-house, o
 customers’ premise in terms of all hardware related services. They also have a storage area 
 (Inventory) for storing all different hardware computer parts. They also have several cars to 
 enable them to visit related ciustomers.
+
+**Note** This project was developed as a component of the Software Engineering course.
